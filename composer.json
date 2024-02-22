@@ -1,0 +1,18 @@
+{
+    "name": "cuadrantedigital/model-toggl",
+    "description": "Models repository to implement a base to extend and connect to Toggl",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "CuadranteDigital\\Models\\Toggl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Equipo Cuadrante Digital",
+            "email": "hola@cuadrantedigital.com"
+        }
+    ],
+    "require": {}
+}
