@@ -14,5 +14,7 @@
             "email": "hola@cuadrantedigital.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
