@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "php": ">=8.2"
+        "ajt/guzzle-toggl": "^1.3"
     }
 }
